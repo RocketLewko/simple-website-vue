@@ -1,7 +1,7 @@
 # Simple Website Vue
 
 Welcome to my very first Vue project! 😎
-Yes, you heard it right—this is my first tango with Vue.js. Coming from an Angular background, I decided to dip my toes into the Vue world. It's been a ride, and I've learned a lot. This project is essentially the same as my Angular one, but the structure might look a bit different because, well, I was figuring things out as I went along!
+Yes, this is my first tango with Vue.js. Coming from an Angular background, I decided to dip my toes into the Vue world. It's been a ride, and I've learned a lot. This project is essentially the same as my Angular like this https://github.com/RocketLewko/simple-website-angular. Well I tried it, I hope it's not a tragedy :P
 
 ## Project Overview
 
@@ -68,15 +68,4 @@ You know the drill. Clone the repo, install the dependencies, and run the app:
 - **TypeScript**: `^5.5.3`
 
 ## API Integration
-
-Just like in my Angular project, I'm using the following API to fetch images:
-
 - **Picsum Photos**: `https://picsum.photos/v2/list?limit=10`
-
-## Usage
-
-Click on an image, and it’ll pop up in a fancy modal. Then, you can navigate through other images. Simple, yet effective.
-
-## Conclusion
-
-This project has been a fun experiment in Vue. Coming from Angular, I found Vue to be quite different, but in a good way! The structure might look a bit
